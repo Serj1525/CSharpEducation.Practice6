@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEducation.Practice6", "CSharpEducation.Practice6\CSharpEducation.Practice6.csproj", "{694481AD-154E-45B5-A2C2-9B92F54F5C5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.Interfaces", "Task1.Interfaces\Task1.Interfaces.csproj", "{694481AD-154E-45B5-A2C2-9B92F54F5C5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
